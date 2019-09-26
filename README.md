@@ -14,6 +14,7 @@ Nuntium is a school project of a CMS like wordpress in may 2018
     * Jquery
 - HTML
 - CSS
+- Git
 
 Library :
 * Bootstrap
@@ -21,7 +22,6 @@ Library :
 * Color picker
 * Notify
 
-- Git
 
 ------
 ## Features
@@ -45,7 +45,3 @@ Library :
 | ❌ | Fix bugs and upgrade the back-end | 1.1 |
 | ❌ | Edit the .gitignore | 1.1 |
 | ✅ | First upload on Github | 1.0 |
-
-"# nuntium_cms" 
-"# nuntium_cms" 
-"# nuntium_cms" 
